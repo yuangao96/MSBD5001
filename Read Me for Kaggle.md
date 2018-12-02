@@ -1,6 +1,6 @@
 ## Read Me for Kaggle
 
-**Programming language: **Python
+**Programming language:**Python
 
 **All required packages:** 
 
